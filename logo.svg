@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ArialNarrow-Bold, Arial;
+        font-size: 29.89px;
+        font-weight: 700;
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #809195;
+      }
+
+      .cls-2 {
+        font-family: Arial-Black, Arial;
+        font-size: 119.57px;
+        font-weight: 800;
+      }
+
+      .cls-4 {
+        fill: #5568ae;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_Слой_1" data-name="Слой_1">
+      <g>
+        <polygon class="cls-3" points="120.47 324.72 120.47 146.1 170.19 146.1 170.19 243.24 120.47 324.72"/>
+        <polygon class="cls-4" points="241.87 146.1 31.11 520.38 141.04 520.38 346.2 146.1 241.87 146.1"/>
+        <polygon class="cls-4" points="219.81 410.31 327.82 410.31 420.16 242.26 452.1 303.37 560.28 301.02 476.61 146.1 366.68 146.1 219.81 410.31"/>
+        <text class="cls-2" transform="translate(397.96 404.83) scale(.89 1)"><tspan x="0" y="0">ВЕСТА</tspan></text>
+        <text class="cls-1" transform="translate(219.64 458.54) scale(.89 1)"><tspan x="0" y="0">ПРОДАЖА НЕДВИЖИМОСТИ • КОНСУЛЬТИРОВАНИЕ</tspan></text>
+        <polygon class="cls-3" points="420.03 245.2 451.34 304.85 562.61 302.46 477.34 144.62 420.03 245.2"/>
+        <text class="cls-1" transform="translate(350.91 490.94) scale(.89 1)"><tspan x="0" y="0">СОПУТСТВУЮЩИЕ УСЛУГИ</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
